@@ -1,8 +1,7 @@
 ```zsh
 Sen@linux: ~/my_readme $ neofetch
 ```
-![alt text](assets/law.jpg)
-<img src="assets/law.jpg" alt="<3" align="left" width="30%" height="500%">
+<img src="assets/law.jpg" alt="<3" align="left" width="30%">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
@@ -14,6 +13,9 @@ OS: MacOS/NixOS
 Languages: Rust, Typscript  
 
 --------------------------------------------------------------
+```
+
+<br clear="both"/>
 
 ## Open Source Contributions
 
