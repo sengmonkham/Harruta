@@ -4,18 +4,26 @@ Sen@linux: ~/my_readme $ neofetch
 <img src="assets/law.jpg" alt="<3" align="left" width="30%">
 
 ```csharp
-----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
-
+---------------------------------------------------------------
 Username: Sengmonkham
-WhoamI: Self taught programmer 
-Intrests: Open Source, Competetive Programing, Dystrubeted Systems 
-OS: MacOS/NixOS
-Languages: Rust, Typscript  
-
---------------------------------------------------------------
+WhoamI: Self-taught programmer 
+Interests: Open Source, Competitive Programming, Distributed Systems 
+OS: MacOS / NixOS
+Kernel: 24.2.0-Darwin / 6.6.6-NixOS
+Uptime: Too long
+Packages: cargo, rustup, nix, brew
+Shell: zsh 5.9
+Terminal: Alacritty
+CPU: System-on-Chip
+Memory: 16G / 16G
+Languages: Rust, TypeScript, C++
+Tools: Git, Neovim, Docker
+---------------------------------------------------------------
 ```
 
 <br clear="both"/>
+
+<div align="center">
 
 ## Open Source Contributions
 
@@ -27,6 +35,8 @@ Below are my pull requests to various open source organizations.
 | 2 | [Rust Lang](https://github.com/rust-lang) | [rust-clippy](https://github.com/rust-lang/rust-clippy) | [#16605](https://github.com/rust-lang/rust-clippy/pull/16605) | Merged |
 | 3 | [Rust Lang](https://github.com/rust-lang) | [rust-clippy](https://github.com/rust-lang/rust-clippy) | [#16652](https://github.com/rust-lang/rust-clippy/pull/16652) | Merged |
 | 4 | [Rust Lang](https://github.com/rust-lang) | [rust-analyzer](https://github.com/rust-lang/rust-analyzer) | [#21843](https://github.com/rust-lang/rust-analyzer/pull/21843) | Merged |
+
+</div>
 
 <br/>
 
