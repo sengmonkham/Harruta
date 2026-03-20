@@ -29,9 +29,10 @@ Below are some of my pull requests to various open source organizations.
 | # | Organization | Repository | PR | Status |
 |---|---|---|---|---|
 | 1 | [BeagleBoard](https://github.com/beagleboard) | [bb-imager-rs](https://github.com/beagleboard/bb-imager-rs) | [#221](https://github.com/beagleboard/bb-imager-rs/pull/221) | Merged |
-| 2 | [Rust Lang](https://github.com/rust-lang) | [rust-clippy](https://github.com/rust-lang/rust-clippy) | [#16605](https://github.com/rust-lang/rust-clippy/pull/16605) | Merged |
-| 3 | [Rust Lang](https://github.com/rust-lang) | [rust-clippy](https://github.com/rust-lang/rust-clippy) | [#16652](https://github.com/rust-lang/rust-clippy/pull/16652) | Merged |
-| 4 | [Rust Lang](https://github.com/rust-lang) | [rust-analyzer](https://github.com/rust-lang/rust-analyzer) | [#21843](https://github.com/rust-lang/rust-analyzer/pull/21843) | Merged |
+| 2 | [BeagleBoard](https://github.com/beagleboard) | [bb-imager-rs](https://github.com/beagleboard/bb-imager-rs) | [#239](https://github.com/beagleboard/bb-imager-rs/pull/239) | Merged |
+| 3 | [Rust Lang](https://github.com/rust-lang) | [rust-clippy](https://github.com/rust-lang/rust-clippy) | [#16605](https://github.com/rust-lang/rust-clippy/pull/16605) | Merged |
+| 4 | [Rust Lang](https://github.com/rust-lang) | [rust-clippy](https://github.com/rust-lang/rust-clippy) | [#16652](https://github.com/rust-lang/rust-clippy/pull/16652) | Merged |
+| 5 | [Rust Lang](https://github.com/rust-lang) | [rust-analyzer](https://github.com/rust-lang/rust-analyzer) | [#21843](https://github.com/rust-lang/rust-analyzer/pull/21843) | Merged |
 
 </div>
 
