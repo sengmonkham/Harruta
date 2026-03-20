@@ -6,7 +6,6 @@ Sen@linux: ~/my_readme $ neofetch
 ```csharp
 ---------------------------------------------------------------
 Username: Sengmonkham
-WhoamI: Self-taught programmer 
 Interests: Open Source, Competitive Programming, Distributed Systems 
 OS: MacOS / NixOS
 Uptime: Too long
@@ -14,6 +13,7 @@ Packages: cargo, rustup, nix, brew
 Terminal: Ghostty
 Languages: Rust, TypeScript, C++
 Tools: Yabai, Hyperland, Skhd, tmux, nvim
+Status: Locked in
 ---------------------------------------------------------------
 ```
 
