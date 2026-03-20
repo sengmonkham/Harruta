@@ -9,7 +9,7 @@ Username: Sengmonkham
 Interests: Open Source, Competitive Programming, Distributed Systems 
 OS: MacOS / NixOS
 Uptime: Too long
-Packages: cargo, rustup, nix, brew
+Packages: Autism, ADHD, and Coffee
 Terminal: Ghostty
 Languages: Rust, TypeScript, C++
 Tools: Yabai, Hyperland, Skhd, tmux, nvim
