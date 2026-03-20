@@ -30,7 +30,7 @@ Below are my pull requests to various open source organizations.
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sengmonkham&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -43,12 +43,6 @@ Below are my pull requests to various open source organizations.
 
 <br/>
 
-## ⏳ Time Coded
-
-<div align="center">
-  <!-- Note: WakaTime stats require you to have a public WakaTime profile linked to your GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sengmonkham&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-</div>
 
 <div align="center">
   <br />
