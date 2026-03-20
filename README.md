@@ -22,7 +22,7 @@ Tools: Yabai, Hyperland, Skhd, tmux, nvim
 <div align="center">
 
 ```zsh
-Sen@linux: ~/show-oss-contributions
+Sen@linux: ~/my_readme $ ./show-oss-contributions
 ```
 Below are my pull requests to various open source organizations.
 
@@ -38,7 +38,7 @@ Below are my pull requests to various open source organizations.
 <br/>
 
 ```zsh
-Sen@linux: ~/show-github-stats
+Sen@linux: ~/my_readme $ ./show-github-stats
 ```
 
 <div align="center">
