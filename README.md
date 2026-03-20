@@ -9,15 +9,11 @@ Username: Sengmonkham
 WhoamI: Self-taught programmer 
 Interests: Open Source, Competitive Programming, Distributed Systems 
 OS: MacOS / NixOS
-Kernel: 24.2.0-Darwin / 6.6.6-NixOS
 Uptime: Too long
 Packages: cargo, rustup, nix, brew
-Shell: zsh 5.9
-Terminal: Alacritty
-CPU: System-on-Chip
-Memory: 16G / 16G
+Terminal: Ghostty
 Languages: Rust, TypeScript, C++
-Tools: Git, Neovim, Docker
+Tools: Yabai, Hyperland, Skhd, tmux, nvim
 ---------------------------------------------------------------
 ```
 
