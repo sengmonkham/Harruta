@@ -56,5 +56,5 @@ Sen@linux: ~/my_readme $ ./show-github-stats
 
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Sengmonkham&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <img src="https://hits.sh/github.com/sengmonkham/Harruta.svg?style=for-the-badge&label=PROFILE+VIEWS&color=8a2be2" alt="Profile Views Counter" />
 </div>
