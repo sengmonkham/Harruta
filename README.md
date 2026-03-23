@@ -48,7 +48,7 @@ Sen@linux: ~/my_readme $ ./show-github-stats
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sengmonkham&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sengmonkham&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br/>
